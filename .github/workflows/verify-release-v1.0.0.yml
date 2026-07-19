@@ -1,0 +1,37 @@
+name: Verify Release v1.0.0
+
+on:
+  push:
+    paths:
+      - .github/release-verification-trigger
+
+permissions:
+  contents: read
+
+jobs:
+  verify-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download and verify release asset
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          ASSET_NAME="LevelDesignTeachingPack_v1.0.0.zip"
+          ASSET_URL="https://github.com/${GITHUB_REPOSITORY}/releases/download/v1.0.0/${ASSET_NAME}"
+          EXPECTED_SHA256="ff2be67d882564e92c614ca2df22f91d923ee07b190c5796995919e3f639dc76"
+
+          curl --fail --location --retry 3 --output "${ASSET_NAME}" "${ASSET_URL}"
+          echo "${EXPECTED_SHA256}  ${ASSET_NAME}" | sha256sum --check --strict
+          unzip -t "${ASSET_NAME}"
+          rm -rf extracted
+          mkdir extracted
+          unzip -q "${ASSET_NAME}" -d extracted
+
+          test -d extracted/Assets
+          test -d extracted/Packages
+          test -d extracted/ProjectSettings
+          test -f extracted/ProjectSettings/ProjectVersion.txt
+          grep -q "m_EditorVersion: 6000.3.19f1" extracted/ProjectSettings/ProjectVersion.txt
+
+          echo "Release asset verification passed."
