@@ -6,12 +6,15 @@ on:
       - .github/release-verification-trigger
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   verify-release:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Download and verify release asset
         shell: bash
         run: |
@@ -34,4 +37,21 @@ jobs:
           test -f extracted/ProjectSettings/ProjectVersion.txt
           grep -q "m_EditorVersion: 6000.3.19f1" extracted/ProjectSettings/ProjectVersion.txt
 
-          echo "Release asset verification passed."
+          mkdir -p verification
+          {
+            echo "Release verification: PASSED"
+            echo "Tag: v1.0.0"
+            echo "Asset: ${ASSET_NAME}"
+            echo "SHA-256: ${EXPECTED_SHA256}"
+            echo "Unity: 6000.3.19f1"
+            echo "Checked: Assets, Packages, ProjectSettings, ProjectVersion.txt"
+          } > verification/v1.0.0-passed.txt
+
+      - name: Commit verification result
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add verification/v1.0.0-passed.txt
+          git commit -m "Record successful v1.0.0 release verification"
+          git push
