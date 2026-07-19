@@ -1,9 +1,7 @@
 name: Verify Release v1.0.0
 
 on:
-  push:
-    paths:
-      - .github/release-verification-trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
