@@ -1,0 +1,388 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100 1149k  100 1149k    0     0  8769k      0 --:--:-- --:--:-- --:--:-- 8769k
+Download: PASSED
+Actual SHA-256: ff2be67d882564e92c614ca2df22f91d923ee07b190c5796995919e3f639dc76
+SHA-256 comparison: PASSED
+Archive:  LevelDesignTeachingPack_v1.0.0.zip
+    testing: LevelDesignTeachingPack_v1.0.0/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/ShaderGraphSettings.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/ProjectSettings.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/InputManager.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/TimeManager.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/MultiplayerManager.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/VersionControlSettings.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/SceneTemplateSettings.json   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/GraphicsSettings.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/XRSettings.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/PresetManager.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/UnityConnectSettings.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/EditorSettings.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/EditorBuildSettings.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/ClusterInputManager.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/TagManager.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/NavMeshAreas.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/Physics2DSettings.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/URPProjectSettings.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/PackageManagerSettings.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/AudioManager.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/VFXManager.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/DynamicsManager.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/QualitySettings.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/MemorySettings.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/ProjectSettings/ProjectVersion.txt   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Packages/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Packages/manifest.json   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Packages/packages-lock.json   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Fonts.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/TMP Settings.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Fonts & Materials.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Sprite Assets.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Sprite Assets/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Style Sheets/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Fonts & Materials/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/Style Sheets.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Resources.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMPro.cginc   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMP_SDF.shader   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Shaders/TMPro.cginc.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Sprites.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Sprites/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Sprites/EmojiOne.json   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Sprites/EmojiOne.png   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Fonts/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Fonts/LiberationSans.ttf   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings/SampleSceneProfile.asset.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings/DefaultVolumeProfile.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings/PC_RPAsset.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings/Mobile_Renderer.asset.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings/PC_RPAsset.asset.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings/Mobile_RPAsset.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings/SampleSceneProfile.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings/Mobile_RPAsset.asset.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings/DefaultVolumeProfile.asset.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings/Mobile_Renderer.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings/PC_Renderer.asset.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings/PC_Renderer.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/99_StudentWork/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/TextMesh Pro.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/00_Scenes.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/InputSystem_Actions.inputactions.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/99_StudentWork.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/InputSystem_Actions.inputactions   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/System.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Volumes.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Triggers/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Triggers/PF_Trigger_DoorTrigger.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Triggers/PF_Trigger_MessageTrigger.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Triggers/PF_Trigger_DoorTrigger.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Triggers/PF_Trigger_MessageTrigger.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Rewards/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Rewards/PF_Reward_Chest.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Rewards/PF_Item_Gem.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Rewards/PF_Item_Gem.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Rewards/PF_Reward_Chest.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Rewards/PF_Item_SecretReward.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Rewards/PF_Item_SecretReward.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/TemplateParts.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Progression.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Enemies.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/TemplateParts/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/TemplateParts/PF_Template_Boundary_DO_NOT_DELETE.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/TemplateParts/PF_Template_Boundary_DO_NOT_DELETE.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/System/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/System/PF_System_GameCore.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/System/PF_System_GameCore.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Rewards.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Player.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Items.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Triggers.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks/PF_Gimmick_MovingPlatform.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks/PF_Gimmick_FallingPlatform.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks/PF_Gimmick_Switch.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks/PF_Gimmick_LockedDoor.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks/PF_Gimmick_LockedDoor.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks/PF_Gimmick_RotatingHazard.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks/PF_Gimmick_RotatingHazard.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks/PF_Gimmick_Door.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks/PF_Gimmick_SpikeTrap.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks/PF_Gimmick_FallingPlatform.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks/PF_Gimmick_MovingPlatform.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks/PF_Gimmick_Door.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks/PF_Gimmick_Switch.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks/PF_Gimmick_SpikeTrap.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Progression/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Progression/PF_Progress_StartPoint.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Progression/PF_Progress_CheckPoint.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Progression/PF_Progress_GoalZone.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Progression/PF_Progress_GoalZone.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Progression/PF_Progress_StartPoint.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Progression/PF_Progress_CheckPoint.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks/PF_Stage_FloorBlock.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks/PF_Stage_WallBlock.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks/PF_Stage_WallBlock.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks/PF_Stage_Platform.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks/PF_Stage_Platform.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks/PF_Stage_Ramp.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks/PF_Stage_HighWall.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks/PF_Stage_Stairs.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks/PF_Stage_HighWall.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks/PF_Stage_Ramp.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks/PF_Stage_Stairs.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks/PF_Stage_LowWall.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks/PF_Stage_FloorBlock.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/StageBlocks/PF_Stage_LowWall.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Volumes/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Volumes/PF_Volume_KillVolume.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Volumes/PF_Volume_KillVolume.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Volumes/PF_Volume_DamageVolume.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Volumes/PF_Volume_DamageVolume.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Gimmicks.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Items/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Items/PF_Item_Key.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Items/PF_Item_HealItem.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Items/PF_Item_HealItem.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Items/PF_Item_Key.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Enemies/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Enemies/PF_Enemy_Patrol.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Enemies/Projectiles.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Enemies/PF_Enemy_Chaser.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Enemies/PF_Enemy_Shooter.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Enemies/PF_Enemy_Patrol.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Enemies/PF_Enemy_Shooter.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Enemies/PF_Enemy_Chaser.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Enemies/Projectiles/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Enemies/Projectiles/PF_EnemyProjectile.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Enemies/Projectiles/PF_EnemyProjectile.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Player/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Player/PF_Player.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Player/PF_Player.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Player/Main Camera.prefab.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs/Player/Main Camera.prefab   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/00_Scenes/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/00_Scenes/02_StudentTemplate.unity   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/00_Scenes/02_StudentTemplate/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/00_Scenes/02_StudentTemplate/NavMesh-NavMeshSurface.asset.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/00_Scenes/02_StudentTemplate/NavMesh-NavMeshSurface.asset   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/00_Scenes/03_Testarea.unity.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/00_Scenes/02_StudentTemplate.unity.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/00_Scenes/03_Testarea.unity   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/00_Scenes/02_StudentTemplate.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/04_Document/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/01_Prefabs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/System.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Stage.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Progression.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Enemies.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/System/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/System/GameManager.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/System/CollectibleManager.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/System/UIManager.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/System/CollectibleManager.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/System/UIManager.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/System/GameManager.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Player.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Items.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Stage/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Stage/KillVolume.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Stage/DamageVolume.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Stage/DamageVolume.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Stage/KillVolume.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/RotatingHazard.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/MovingPlatformPassengerTrigger.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/MovingPlatform.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/MovingPlatformPassengerTrigger.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/Switch.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/LockedDoor.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/MessageTrigger.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/TriggerZone.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/LockedDoor.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/MovingPlatform.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/SpikeTrapActivator.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/FallingPlatform.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/Door.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/HazardContactDamage.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/SpikeTrap.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/SpikeTrap.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/RotatingHazard.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/TriggerZone.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/MessageTrigger.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/Switch.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/SpikeTrapActivator.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/HazardContactDamage.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/FallingPlatformTrigger.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/Door.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/FallingPlatformTrigger.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks/FallingPlatform.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Progression/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Progression/StartPoint.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Progression/CheckPoint.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Progression/GoalZone.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Progression/GoalZone.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Progression/StartPoint.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Progression/CheckPoint.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Gimmicks.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Items/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Items/HealItem.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Items/CollectibleItem.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Items/CollectibleItem.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Items/KeyItem.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Items/RewardChest.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Items/KeyItem.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Items/RewardChest.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Items/HealItem.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Enemies/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Enemies/EnemyContactDamage.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Enemies/ChaserEnemy.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Enemies/EnemyProjectile.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Enemies/ShooterEnemy.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Enemies/EnemyHealth.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Enemies/ShooterEnemy.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Enemies/EnemyProjectile.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Enemies/ChaserEnemy.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Enemies/EnemyHealth.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Enemies/PatrolEnemy.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Enemies/PatrolEnemy.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Enemies/EnemyContactDamage.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Player/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Player/PlayerController.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Player/PlayerCameraController.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Player/KeyInventory.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Player/PlayerHealth.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Player/PlayerHealth.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Player/PlayerController.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Player/PlayerRespawn.cs   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Player/KeyInventory.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Player/PlayerCameraController.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/02_Scripts/Player/PlayerRespawn.cs.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/04_Document.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/Settings.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Danger.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Debug.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Trigger_Purple.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_CheckPoint_Green.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Trigger_Purple.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Stage_Gray.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Stage_Blue.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Reward_Yellow.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Chest_Closed.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Stage_Gray.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Gimmick_Closed.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Gimmick_Opened.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Gimmick_Opened.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Stage_DarkGray.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Gimmick_Closed.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_CheckPoint_Green.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Chest_Opened.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Stage_DarkGray.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Chest_Closed.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Chest_Opened.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Stage_Blue.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Stage/M_Reward_Yellow.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Danger/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Danger/M_Danger_Red.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Danger/M_Danger_Orange.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Danger/M_Danger_Orange.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Danger/M_Danger_Red.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Debug/   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Debug/M_Debug_TransparentBlue.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Debug/M_Debug_TransparentRed.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Debug/M_Debug_TransparentRed.mat.meta   OK
+    testing: LevelDesignTeachingPack_v1.0.0/Assets/03_Materials/Debug/M_Debug_TransparentBlue.mat   OK
+    testing: LevelDesignTeachingPack_v1.0.0/.gitignore   OK
+    testing: LevelDesignTeachingPack_v1.0.0/.gitattributes   OK
+    testing: LevelDesignTeachingPack_v1.0.0/README.md   OK
+No errors detected in compressed data of LevelDesignTeachingPack_v1.0.0.zip.
+ZIP integrity: PASSED
+Detected project root: extracted/LevelDesignTeachingPack_v1.0.0
+Unity project structure: PASSED
+Unity version: 6000.3.19f1
+Release verification: PASSED
